@@ -32,7 +32,9 @@ As mentioned above, each mask consists on four pieces.
 
 ![Mask BOM](/static/mask-bom.png)
 
-Once you have these pieces available, you can follow this assembly procedure:
+![BOM Schematics](/static/bom-schematic.png)
+
+Once you have these pieces available, you can follow this assembly procedure
 
 ### Screen attachment
 
