@@ -14,7 +14,7 @@ These masks are made of acetate or PVC sheets. Each mask requires four pieces, t
 
 ## How are they made?
 
-The most effective way of making these masks is through a cry-cutting machine. We've designed and built ours using a Silhouette Cameo, but any device that machines plastic sheets would do. You'd need to download the designs - available in this repository or [here]() TODO Link. If your laminate sheets are A4-sized, you can download the sheet layout directly. If you have bigger machines, you can compose your own layout using the individual files, also included here - feel free to contribute back with your layout for easing others' task. 
+The most effective way of making these masks is through a die-cutting machine. We've designed and built ours using a Silhouette Cameo, but any device that machines plastic sheets would do. You'd need to download the designs - available in this repository or [here]() TODO Link. If your laminate sheets are A4-sized, you can download the sheet layout directly. If you have bigger machines, you can compose your own layout using the individual files, also included here - feel free to contribute back with your layout for easing others' task. 
 
 If you compose your own layouts, please take a look at the pictures below for size references - all sizes are in _mm_.
 
