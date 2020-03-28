@@ -1,6 +1,9 @@
 # 100% Cuttable mask, designed for COVID-19 protection
 
-100% Machinable head mask - non-homologated for health-care usage.
+100% Machinable head mask - **not-homologated for health-care usage**
+
+![Assembled Mask - Front view](/static/assembled-front.png)
+_Front View_
 
 If you have a plotter, and some PVC sheets, you can build head masks at medium scale at home, or at large scale if you have industrial equipment. Whilst these masks have not passed any medical tests and therefore are not homologated for medical usage, it can definitely serve as a protective layer on other industries where human contact is unavoidable. 
 
@@ -8,7 +11,8 @@ By being fully manufactured using only one material - which can be a material wh
 
 ## What are these masks?
 
-Picture
+![Assembled Mask - Side view](/static/assembled-side.png)
+_Side View_
 
 These masks are made of acetate or PVC sheets. Each mask requires four pieces, that are assembled together to achieve the final result. Once assembled, it protects its user from accidental dissassemblies. Two straps are wrapped around the user's head, finishing in a 3-hole interlacing to ensure the masks are held tight. Excessive force is not required for attaching these masks, as their weight is extremely low, and PVC easily acquires static electricity, that further attaches the headband to the user's forehead.
 
@@ -26,7 +30,7 @@ Technically, you could build your own mask using two printable A4 PVC sheets, a 
 
 As mentioned above, each mask consists on four pieces.
 
-TODO
+![Mask BOM](/static/mask-bom.png)
 
 Once you have these pieces available, you can follow this assembly procedure:
 
@@ -34,17 +38,25 @@ Once you have these pieces available, you can follow this assembly procedure:
 
 Attach the screen to the separator, using connectors **C** and **D**. **C** connector **must** pass through both holes, to ensure attachment. **D** are auxiliary connectors to keep everything in place, so one hole would do.
 
+![Attaching screen to separator](/static/screen-separator.png)
+
 ### Strap links
 
 Use the **E** connectors at the end of each strap to attach them to the band. To do so, Loop through the **A** connectors of the band - start by the inner hole and finish in the outer one. The little loop that the straps do between **A** connectors will face outwards from users' face.
+
+![Attaching straps to band](/static/band-straps.png)
 
 ### Separator attachment
 
 To finish the mask assembly, connect the band to the separator using **B** connectors. The separator part should face outwards, leaving **the screen closer to the band**. This ensures the mask stretches itself near the eye area, and avoids the mask to move too much when the user performs sudden movements.
 
+![Attaching separator to band](/static/band-separator.png)
+
 ## How are they used?
 
 To use the mask, wrap the straps around your head, and use the **F** connectors from each strap to link both straps together. Pass the left strap through the three holes on the right strap, for full protection. Then, grab a strap's end with each hand, and pull firmly, but not too hard. The straps should adjust further, leaving the mask fixed in your head.
+
+![Attaching straps to each other](/static/assembled-straps.png)
 
 ## How much do they cost?
 
@@ -53,3 +65,4 @@ We could buy 100 sheets for about 10€. At large scale, each mask takes about 1
 With domestic settings, we calculated it takes, in average, 3 minutes to manipulate the materials and run quality checks on the pieces - all pieces that show imperfections on structural parts **must not be used**. Assembly time is not included, and should take between 3 and 5 minutes apiece.
 
 We are manufacturing masks using our available materials, and putting our labor time and machine hours completely for free. However, there's only so much material we have available or that we can purchase with our personal money. Hence, we accept donations of materials that we could use for manufacturing, as well as cash donations for purchasing them ourselves. If you like this initiative, you can donate here.
+
