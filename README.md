@@ -18,9 +18,18 @@ These masks are made of acetate or PVC sheets. Each mask requires four pieces, t
 
 ## How are they made?
 
-The most effective way of making these masks is through a die-cutting machine. We've designed and built ours using a Silhouette Cameo, but any device that machines plastic sheets would do. You'd need to download the designs - available in this repository or [here]() TODO Link. If your laminate sheets are A4-sized, you can download the sheet layout directly. If you have bigger machines, you can compose your own layout using the individual files, also included here - feel free to contribute back with your layout for easing others' task. 
+The most effective way of making these masks is through a die-cutting machine, capable of cutting through PVC sheets. You'd also need to download the compatible files for your device, from the list above. If your laminate sheets are A4-sized, you can download the sheet layout directly. 
 
-If you compose your own layouts, please take a look at the pictures below for size references - all sizes are in _mm_.
+
+
+If you have bigger machines, you can compose your own layout using the individual files, also included here - feel free to contribute back with your layout for easing others' task. If you compose your own layouts, please take a look at the size reference below - all sizes are in _mm_.
+
+* **Band:** 290x30mm
+* **Separator:** 292,94x28,08mm
+* **Left strap:** 224,08x22,63mm
+* **Right strap:** 226,39x25,03mm
+
+The process must completely cut through the material - specially in the wholes and link marks. **PVC sheets are extremely fragile when bent over after being cut, if the cut is not deep enough.**
 
 ### Can't I do them without a machine?
 
@@ -59,12 +68,3 @@ To finish the mask assembly, connect the band to the separator using **B** conne
 To use the mask, wrap the straps around your head, and use the **F** connectors from each strap to link both straps together. Pass the left strap through the three holes on the right strap, for full protection. Then, grab a strap's end with each hand, and pull firmly, but not too hard. The straps should adjust further, leaving the mask fixed in your head.
 
 ![Attaching straps to each other](/static/assembled-straps.png)
-
-## How much do they cost?
-
-We could buy 100 sheets for about 10€. At large scale, each mask takes about 1.8 sheets. This results in a material cost estimation of roughly 18 cents. 
-
-With domestic settings, we calculated it takes, in average, 3 minutes to manipulate the materials and run quality checks on the pieces - all pieces that show imperfections on structural parts **must not be used**. Assembly time is not included, and should take between 3 and 5 minutes apiece.
-
-We are manufacturing masks using our available materials, and putting our labor time and machine hours completely for free. However, there's only so much material we have available or that we can purchase with our personal money. Hence, we accept donations of materials that we could use for manufacturing, as well as cash donations for purchasing them ourselves. If you like this initiative, you can donate here.
-
