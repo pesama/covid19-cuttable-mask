@@ -18,11 +18,9 @@ These masks are made of acetate or PVC sheets. Each mask requires four pieces, t
 
 ## How are they made?
 
-The most effective way of making these masks is through a die-cutting machine, capable of cutting through PVC sheets. You'd also need to download the compatible files for your device, from the list above. If your laminate sheets are A4-sized, you can download the sheet layout directly. 
+The most effective way of making these masks is through a die-cutting machine, capable of cutting through PVC sheets. You'd also need to download the design files from the `files/` folder. If you have a Silhouette device, you can find handy `.studio3` files for your machine. 
 
-
-
-If you have bigger machines, you can compose your own layout using the individual files, also included here - feel free to contribute back with your layout for easing others' task. If you compose your own layouts, please take a look at the size reference below - all sizes are in _mm_.
+If you have other machines, you can compose your own layout using the individual files, also included here. Follow the dimension guidelines below for the parts layout. Once you've finished your layout, kindly submit it as a Pull Request, to facilitate others' work.
 
 * **Band:** 290x30mm
 * **Separator:** 292,94x28,08mm
