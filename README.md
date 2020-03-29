@@ -2,6 +2,8 @@
 
 Una máscara 100% cortable, **no homologada para utilización sanitaria**
 
+_Looking for the English version? Check it out [here](/README-en.md)
+
 ![Máscara - Vista frontal](/static/assembled-front.png)
 _Vista frontal_
 
