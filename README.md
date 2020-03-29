@@ -22,7 +22,15 @@ No es necesaria fuerza excesiva para ajustar estas máscaras - ya que tienen un 
 
 ## Cómo se fabrican?
 
-La manera más eficiente de hacer estas máscaras es mediante un plóter, capaz de cortar a través de láminas de acetato o PVC. Puedes descargar los archivos de diseños, disponibles en la carpeta `files/`. 
+La manera más eficiente de hacer estas máscaras es mediante un plóter, capaz de cortar a través de láminas de acetato o PVC. 
+
+### Descarga de archivos
+
+* [Pantalla - DXF](/files/dxf/screen.pdf)
+* [Banda - DXF](/files/dxf/band.pdf)
+* [Separador - DXF](/files/dxf/separator.pdf)
+* [Correa izquierda - DXF](/files/dxf/strap-left.pdf)
+* [Correa derecha - DXF](/files/dxf/strap-right.pdf)
 
 Si compones tu propia plantilla de corte, por favor ten en cuenta las dimensiones de las piezas
 
@@ -49,14 +57,6 @@ Cada máscara tiene 5 piezas:
 ![Mask BOM](/static/mask-bom.png)
 
 ![BOM Schematics](/static/bom-schematic.png)
-
-### Descarga de archivos
-
-* [Pantalla - DXF](/files/dxf/screen.pdf)
-* [Banda - DXF](/files/dxf/band.pdf)
-* [Separador - DXF](/files/dxf/separator.pdf)
-* [Correa izquierda - DXF](/files/dxf/strap-left.pdf)
-* [Correa derecha - DXF](/files/dxf/strap-right.pdf)
 
 Cuando dispongas de estas piezas, puedes comenzar el ensamblado.
 
