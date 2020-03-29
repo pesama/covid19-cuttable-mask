@@ -1,8 +1,8 @@
+_Looking for the English version? Check it out [here](/README-en.md)_
+
 ![Máscara recortable, para protección contra el COVID-19](/static/banner-es.png)
 
 Una máscara 100% cortable, **no homologada para utilización sanitaria**
-
-_Looking for the English version? Check it out [here](/README-en.md)_
 
 Si tienes un plóter, y láminas de acetato o PVC, puedes construir máscaras a mediana escala desde casa, o a gran escala si tienes equipos industriales. Aunque estas máscaras no han pasado ningún test médico - y no están homologadas para uso médico - sirven como capa protectora adicional en otros sectores en los que el trato directo al público es inevitable.
 
