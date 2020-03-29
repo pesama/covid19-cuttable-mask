@@ -31,13 +31,16 @@ Si compones tu propia plantilla de corte, por favor ten en cuenta las dimensione
 * **Banda izquierda:** 224,08x22,63mm
 * **Banda derecha:** 226,39x25,03mm
 
-The process must completely cut through the material - specially in the wholes and link marks. **PVC sheets are extremely fragile when bent over after being cut, if the cut is not deep enough.**
-
 El proceso de corte debe atravesar por completo el material. **Las láminas son extremadamente frágiles cuando se doblan una vez cortadas, si el corte no es suficientemente profundo.
 
 ### No puedo hacerlo sin una máquina?
 
-Técnicamente, podrías construir tu propia máscara utilizando dos láminas A4 de PVC imprimibles, una impresora, unas tijeras o herramientas de corte manual, y mucha paciencia. En la carpeta `files/` encontrarás los dos archivos PDF que necesitas.
+Técnicamente, podrías construir tu propia máscara utilizando dos láminas A4 de PVC imprimibles, una impresora, unas tijeras o herramientas de corte manual, y mucha paciencia. 
+
+#### Descarga de archivos
+
+* [Pantalla - PDF](/files/protective-screen.pdf)
+* [Piezas - PDF](/files/straps.pdf)
 
 ## Cómo se construye?
 
@@ -46,6 +49,14 @@ Cada máscara tiene 5 piezas:
 ![Mask BOM](/static/mask-bom.png)
 
 ![BOM Schematics](/static/bom-schematic.png)
+
+### Descarga de archivos
+
+* [Pantalla - DXF](/files/dxf/screen.pdf)
+* [Banda - DXF](/files/dxf/band.pdf)
+* [Separador - DXF](/files/dxf/separator.pdf)
+* [Correa izquierda - DXF](/files/dxf/strap-left.pdf)
+* [Correa derecha - DXF](/files/dxf/strap-right.pdf)
 
 Cuando dispongas de estas piezas, puedes comenzar el ensamblado.
 
