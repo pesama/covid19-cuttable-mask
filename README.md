@@ -32,12 +32,13 @@ La manera más eficiente de hacer estas máscaras es mediante un plóter, capaz 
 * [Correa izquierda - DXF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/dxf/strap-left.pdf)
 * [Correa derecha - DXF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/dxf/strap-right.pdf)
 
-Si compones tu propia plantilla de corte, por favor ten en cuenta las dimensiones de las piezas
+Si compones tu propia plantilla de corte, por favor ten en cuenta las dimensiones de las piezas:
 
 * **Banda:** 290x30mm
 * **Separador:** 292,94x28,08mm
 * **Banda izquierda:** 224,08x22,63mm
 * **Banda derecha:** 226,39x25,03mm
+* **Pantalla:** 280,03x205,35mm
 
 El proceso de corte debe atravesar por completo el material. **Las láminas son extremadamente frágiles cuando se doblan una vez cortadas, si el corte no es suficientemente profundo.
 
