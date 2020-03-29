@@ -26,11 +26,11 @@ La manera más eficiente de hacer estas máscaras es mediante un plóter, capaz 
 
 ### Descarga de archivos
 
-* [Pantalla - DXF](/files/dxf/screen.pdf)
-* [Banda - DXF](/files/dxf/band.pdf)
-* [Separador - DXF](/files/dxf/separator.pdf)
-* [Correa izquierda - DXF](/files/dxf/strap-left.pdf)
-* [Correa derecha - DXF](/files/dxf/strap-right.pdf)
+* [Pantalla - DXF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/dxf/screen.pdf)
+* [Banda - DXF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/dxf/band.pdf)
+* [Separador - DXF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/dxf/separator.pdf)
+* [Correa izquierda - DXF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/dxf/strap-left.pdf)
+* [Correa derecha - DXF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/dxf/strap-right.pdf)
 
 Si compones tu propia plantilla de corte, por favor ten en cuenta las dimensiones de las piezas
 
@@ -47,8 +47,8 @@ Técnicamente, podrías construir tu propia máscara utilizando dos láminas A4 
 
 #### Descarga de archivos
 
-* [Pantalla - PDF](/files/protective-screen.pdf)
-* [Piezas - PDF](/files/straps.pdf)
+* [Pantalla - PDF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/protective-screen.pdf)
+* [Piezas - PDF](https://github.com/pesama/covid19-cuttable-mask/raw/master/files/straps.pdf)
 
 ## Cómo se construye?
 
