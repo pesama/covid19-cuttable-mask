@@ -1,4 +1,4 @@
-# Máscara 100% Cortable, diseñada para la protección contra el COVID 19
+![Máscara recortable, para protección contra el COVID-19](/static/banner-es.png)
 
 Una máscara 100% cortable, **no homologada para utilización sanitaria**
 
